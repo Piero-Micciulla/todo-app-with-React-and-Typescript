@@ -1,2 +1,2 @@
-# Todo List with Raect and Typescript
+# Todo List with React and Typescript
 
